@@ -191,38 +191,6 @@
       "2029-30": "$0"
     }
   },
-  "8482118": {
-    "name": "Sam Colangelo",
-    "team": "anaheim-ducks",
-    "cap_hit": "$850,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$850,000",
-      "2026-27": "$850,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8485512": {
-    "name": "Tim Washe",
-    "team": "anaheim-ducks",
-    "cap_hit": "$812,500",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$812,500",
-      "2026-27": "$812,500",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8478424": {
     "name": "Jansen Harkins",
     "team": "anaheim-ducks",
@@ -317,22 +285,6 @@
       "2027-28": "$9,000,000",
       "2028-29": "$9,000,000",
       "2029-30": "$9,000,000"
-    }
-  },
-  "8482178": {
-    "name": "Ian Moore",
-    "team": "anaheim-ducks",
-    "cap_hit": "$925,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$925,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
     }
   },
   "8483490": {
@@ -511,6 +463,22 @@
       "2029-30": "$0"
     }
   },
+  "8482118": {
+    "name": "Sam Colangelo",
+    "team": "anaheim-ducks",
+    "cap_hit": "$850,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$850,000",
+      "2026-27": "$850,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8482682": {
     "name": "Sasha Pastujov",
     "team": "anaheim-ducks",
@@ -522,6 +490,22 @@
     "salary_schedule": {
       "2025-26": "$825,000",
       "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8485512": {
+    "name": "Tim Washe",
+    "team": "anaheim-ducks",
+    "cap_hit": "$812,500",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$812,500",
+      "2026-27": "$812,500",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -571,6 +555,22 @@
       "2025-26": "$942,500",
       "2026-27": "$942,500",
       "2027-28": "$942,500",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8482178": {
+    "name": "Ian Moore",
+    "team": "anaheim-ducks",
+    "cap_hit": "$925,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$925,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -1583,22 +1583,6 @@
       "2029-30": "$0"
     }
   },
-  "8484797": {
-    "name": "Konsta Helenius",
-    "team": "buffalo-sabres",
-    "cap_hit": "$942,500",
-    "expiry_year": 2028,
-    "years_remaining": 3,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$942,500",
-      "2026-27": "$942,500",
-      "2027-28": "$942,500",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8482659": {
     "name": "Josh Doan",
     "team": "buffalo-sabres",
@@ -1791,38 +1775,6 @@
       "2029-30": "$0"
     }
   },
-  "8481708": {
-    "name": "Zachary Jones",
-    "team": "buffalo-sabres",
-    "cap_hit": "$900,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$900,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8484305": {
-    "name": "Zach Metsa",
-    "team": "buffalo-sabres",
-    "cap_hit": "$775,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$775,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8480045": {
     "name": "Ukko-Pekka Luukkonen",
     "team": "buffalo-sabres",
@@ -1883,6 +1835,22 @@
       "2025-26": "$975,000",
       "2026-27": "$975,000",
       "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8484797": {
+    "name": "Konsta Helenius",
+    "team": "buffalo-sabres",
+    "cap_hit": "$942,500",
+    "expiry_year": 2028,
+    "years_remaining": 3,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$942,500",
+      "2026-27": "$942,500",
+      "2027-28": "$942,500",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -2123,6 +2091,22 @@
       "2025-26": "$775,000",
       "2026-27": "$775,000",
       "2027-28": "$775,000",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8484305": {
+    "name": "Zach Metsa",
+    "team": "buffalo-sabres",
+    "cap_hit": "$775,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$775,000",
+      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -2383,22 +2367,6 @@
       "2029-30": "$0"
     }
   },
-  "8477993": {
-    "name": "Justin Kirkland",
-    "team": "calgary-flames",
-    "cap_hit": "$900,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$900,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8481556": {
     "name": "John Beecher",
     "team": "calgary-flames",
@@ -2527,22 +2495,6 @@
       "2029-30": "$0"
     }
   },
-  "8484150": {
-    "name": "Hunter Brzustewicz",
-    "team": "calgary-flames",
-    "cap_hit": "$950,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$950,000",
-      "2026-27": "$950,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8484768": {
     "name": "Zayne Parekh",
     "team": "calgary-flames",
@@ -2665,6 +2617,22 @@
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$900,833",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8477993": {
+    "name": "Justin Kirkland",
+    "team": "calgary-flames",
+    "cap_hit": "$900,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$900,000",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -2799,6 +2767,22 @@
       "2029-30": "$0"
     }
   },
+  "8484150": {
+    "name": "Hunter Brzustewicz",
+    "team": "calgary-flames",
+    "cap_hit": "$950,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$950,000",
+      "2026-27": "$950,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8484198": {
     "name": "Etienne Morin",
     "team": "calgary-flames",
@@ -2815,16 +2799,16 @@
       "2029-30": "$0"
     }
   },
-  "8482173": {
-    "name": "Jeremie Poirier",
+  "8483059": {
+    "name": "Gavin White",
     "team": "calgary-flames",
-    "cap_hit": "$775,000",
+    "cap_hit": "$857,500",
     "expiry_year": 2026,
     "years_remaining": 1,
     "status": "RFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$775,000",
+      "2025-26": "$857,500",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -3087,22 +3071,6 @@
       "2029-30": "$0"
     }
   },
-  "8481491": {
-    "name": "Noah Philp",
-    "team": "carolina-hurricanes",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8480817": {
     "name": "K'Andre Miller",
     "team": "carolina-hurricanes",
@@ -3215,38 +3183,6 @@
       "2029-30": "$0"
     }
   },
-  "8482911": {
-    "name": "Joel Nystrom",
-    "team": "carolina-hurricanes",
-    "cap_hit": "$925,000",
-    "expiry_year": 2030,
-    "years_remaining": 5,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$925,000",
-      "2026-27": "$1,225,000",
-      "2027-28": "$1,225,000",
-      "2028-29": "$1,225,000",
-      "2029-30": "$1,225,000"
-    }
-  },
-  "8484428": {
-    "name": "Charles-Alexis Legault",
-    "team": "carolina-hurricanes",
-    "cap_hit": "$915,833",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$915,833",
-      "2026-27": "$915,833",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8475883": {
     "name": "Frederik Andersen",
     "team": "carolina-hurricanes",
@@ -3283,15 +3219,15 @@
     "name": "Brandon Bussi",
     "team": "carolina-hurricanes",
     "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
+    "expiry_year": 2029,
+    "years_remaining": 4,
     "status": "UFA",
-    "clauses": "",
+    "clauses": "M-NTC",
     "salary_schedule": {
       "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
+      "2026-27": "$1,900,000",
+      "2027-28": "$1,900,000",
+      "2028-29": "$1,900,000",
       "2029-30": "$0"
     }
   },
@@ -3471,6 +3407,22 @@
       "2029-30": "$0"
     }
   },
+  "8481491": {
+    "name": "Noah Philp",
+    "team": "carolina-hurricanes",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8484929": {
     "name": "Juha Jaaska",
     "team": "carolina-hurricanes",
@@ -3482,6 +3434,22 @@
     "salary_schedule": {
       "2025-26": "$775,000",
       "2026-27": "$775,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8484428": {
+    "name": "Charles-Alexis Legault",
+    "team": "carolina-hurricanes",
+    "cap_hit": "$915,833",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$915,833",
+      "2026-27": "$915,833",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -3983,6 +3951,38 @@
       "2029-30": "$0"
     }
   },
+  "8483506": {
+    "name": "Sam Rinzel",
+    "team": "chicago-blackhawks",
+    "cap_hit": "$941,667",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$941,667",
+      "2026-27": "$941,667",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8483466": {
+    "name": "Kevin Korchinski",
+    "team": "chicago-blackhawks",
+    "cap_hit": "$918,333",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$918,333",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8481806": {
     "name": "Louis Crevier",
     "team": "chicago-blackhawks",
@@ -4185,38 +4185,6 @@
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$800,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8483506": {
-    "name": "Sam Rinzel",
-    "team": "chicago-blackhawks",
-    "cap_hit": "$941,667",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$941,667",
-      "2026-27": "$941,667",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8483466": {
-    "name": "Kevin Korchinski",
-    "team": "chicago-blackhawks",
-    "cap_hit": "$918,333",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$918,333",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -4495,22 +4463,6 @@
       "2029-30": "$0"
     }
   },
-  "8482953": {
-    "name": "Taylor Makar",
-    "team": "colorado-avalanche",
-    "cap_hit": "$925,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$925,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8482947": {
     "name": "Zakhar Bardakov",
     "team": "colorado-avalanche",
@@ -4544,16 +4496,16 @@
     }
   },
   "8480069": {
-    "name": "Cale Makar",
+    "name": "Taylor Makar",
     "team": "colorado-avalanche",
-    "cap_hit": "$9,000,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "UFA",
+    "cap_hit": "$925,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$9,000,000",
-      "2026-27": "$9,000,000",
+      "2025-26": "$925,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -5215,38 +5167,6 @@
       "2029-30": "$0"
     }
   },
-  "8476867": {
-    "name": "Brendan Gaunce",
-    "team": "columbus-blue-jackets",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8479944": {
-    "name": "Zach Aston-Reese",
-    "team": "columbus-blue-jackets",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8478460": {
     "name": "Zach Werenski",
     "team": "columbus-blue-jackets",
@@ -5376,15 +5296,15 @@
     }
   },
   "8474090": {
-    "name": "Brendan Smith",
+    "name": "Brendan Gaunce",
     "team": "columbus-blue-jackets",
-    "cap_hit": "$800,000",
+    "cap_hit": "$775,000",
     "expiry_year": 2026,
     "years_remaining": 1,
     "status": "UFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$800,000",
+      "2025-26": "$775,000",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -5553,6 +5473,22 @@
   },
   "8477392": {
     "name": "Hudson Fasching",
+    "team": "columbus-blue-jackets",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8479944": {
+    "name": "Zach Aston-Reese",
     "team": "columbus-blue-jackets",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -6351,22 +6287,6 @@
       "2029-30": "$0"
     }
   },
-  "8483059": {
-    "name": "Gavin White",
-    "team": "dallas-stars",
-    "cap_hit": "$857,500",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$857,500",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8485041": {
     "name": "Niilopekka Muhonen",
     "team": "dallas-stars",
@@ -6401,6 +6321,22 @@
   },
   "8481609": {
     "name": "Vladislav Kolyachonok",
+    "team": "dallas-stars",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8482173": {
+    "name": "Jeremie Poirier",
     "team": "dallas-stars",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -6659,15 +6595,15 @@
     "name": "Ben Chiarot",
     "team": "detroit-red-wings",
     "cap_hit": "$4,750,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
+    "expiry_year": 2029,
+    "years_remaining": 4,
     "status": "UFA",
     "clauses": "M-NTC",
     "salary_schedule": {
       "2025-26": "$4,750,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
+      "2026-27": "$3,850,000",
+      "2027-28": "$3,850,000",
+      "2028-29": "$3,850,000",
       "2029-30": "$0"
     }
   },
@@ -6979,14 +6915,14 @@
     "name": "Sheldon Dries",
     "team": "detroit-red-wings",
     "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
+    "expiry_year": 2028,
+    "years_remaining": 3,
     "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
+      "2026-27": "$875,000",
+      "2027-28": "$875,000",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -7343,38 +7279,6 @@
       "2029-30": "$0"
     }
   },
-  "8484509": {
-    "name": "Josh Samanski",
-    "team": "edmonton-oilers",
-    "cap_hit": "$975,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$975,000",
-      "2026-27": "$975,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8483512": {
-    "name": "Matthew Savoie",
-    "team": "edmonton-oilers",
-    "cap_hit": "$886,666",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$886,666",
-      "2026-27": "$886,666",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8477508": {
     "name": "Curtis Lazar",
     "team": "edmonton-oilers",
@@ -7535,8 +7439,8 @@
       "2029-30": "$0"
     }
   },
-  "8475717": {
-    "name": "Calvin Pickard",
+  "8479368": {
+    "name": "Max Jones",
     "team": "edmonton-oilers",
     "cap_hit": "$1,000,000",
     "expiry_year": 2026,
@@ -7551,17 +7455,17 @@
       "2029-30": "$0"
     }
   },
-  "8479368": {
-    "name": "Max Jones",
+  "8484509": {
+    "name": "Josh Samanski",
     "team": "edmonton-oilers",
-    "cap_hit": "$1,000,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
+    "cap_hit": "$975,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$1,000,000",
-      "2026-27": "$0",
+      "2025-26": "$975,000",
+      "2026-27": "$975,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -7731,13 +7635,13 @@
     "name": "Atro Leppänen",
     "team": "edmonton-oilers",
     "cap_hit": "$975,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
+    "expiry_year": 2027,
+    "years_remaining": 2,
     "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$975,000",
-      "2026-27": "$0",
+      "2026-27": "$850,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -7802,6 +7706,22 @@
     "salary_schedule": {
       "2025-26": "$775,000",
       "2026-27": "$775,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8475717": {
+    "name": "Calvin Pickard",
+    "team": "edmonton-oilers",
+    "cap_hit": "$1,000,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$1,000,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -8335,22 +8255,6 @@
       "2029-30": "$0"
     }
   },
-  "8484271": {
-    "name": "Ryan McAllister",
-    "team": "florida-panthers",
-    "cap_hit": "$896,667",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$896,667",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8484224": {
     "name": "Gracyn Sawchyn",
     "team": "florida-panthers",
@@ -8607,6 +8511,22 @@
       "2029-30": "$0"
     }
   },
+  "8478550": {
+    "name": "Artemi Panarin",
+    "team": "los-angeles-kings",
+    "cap_hit": "$5,821,429",
+    "expiry_year": 2028,
+    "years_remaining": 3,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$5,821,429",
+      "2026-27": "$11,000,000",
+      "2027-28": "$11,000,000",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8477960": {
     "name": "Adrian Kempe",
     "team": "los-angeles-kings",
@@ -8714,22 +8634,6 @@
     "salary_schedule": {
       "2025-26": "$2,000,000",
       "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8483675": {
-    "name": "Kenny Connors",
-    "team": "los-angeles-kings",
-    "cap_hit": "$867,500",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$867,500",
-      "2026-27": "$867,500",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -8959,22 +8863,6 @@
       "2029-30": "$0"
     }
   },
-  "8484802": {
-    "name": "Liam Greentree",
-    "team": "los-angeles-kings",
-    "cap_hit": "$942,500",
-    "expiry_year": 2028,
-    "years_remaining": 3,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$942,500",
-      "2026-27": "$942,500",
-      "2027-28": "$942,500",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8485602": {
     "name": "Jimmy Lombardi",
     "team": "los-angeles-kings",
@@ -8987,6 +8875,22 @@
       "2025-26": "$923,333",
       "2026-27": "$923,333",
       "2027-28": "$923,333",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8483675": {
+    "name": "Kenny Connors",
+    "team": "los-angeles-kings",
+    "cap_hit": "$867,500",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$867,500",
+      "2026-27": "$867,500",
+      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -9503,24 +9407,24 @@
       "2029-30": "$0"
     }
   },
-  "8475752": {
-    "name": "Tyler Pitlick",
+  "8476994": {
+    "name": "Vinnie Hinostroza",
     "team": "minnesota-wild",
     "cap_hit": "$775,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
+    "expiry_year": 2026,
+    "years_remaining": 1,
     "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
-      "2026-27": "$775,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
   },
-  "8476994": {
-    "name": "Vinnie Hinostroza",
+  "8479383": {
+    "name": "Boris Katchouk",
     "team": "minnesota-wild",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -9631,16 +9535,16 @@
       "2029-30": "$0"
     }
   },
-  "8483460": {
-    "name": "David Spacek",
+  "8479416": {
+    "name": "Ben Gleason",
     "team": "minnesota-wild",
-    "cap_hit": "$862,500",
+    "cap_hit": "$800,000",
     "expiry_year": 2026,
     "years_remaining": 1,
-    "status": "RFA",
+    "status": "UFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$862,500",
+      "2025-26": "$800,000",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -9658,22 +9562,6 @@
     "salary_schedule": {
       "2025-26": "$775,000",
       "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482641": {
-    "name": "Matt Kiersted",
-    "team": "minnesota-wild",
-    "cap_hit": "$775,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$775,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -9823,24 +9711,24 @@
       "2029-30": "$0"
     }
   },
-  "8477979": {
-    "name": "Nicolas Aube-Kubel",
+  "8475752": {
+    "name": "Tyler Pitlick",
     "team": "minnesota-wild",
     "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
+    "expiry_year": 2027,
+    "years_remaining": 2,
     "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
-      "2026-27": "$0",
+      "2026-27": "$775,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
   },
-  "8479383": {
-    "name": "Boris Katchouk",
+  "8477979": {
+    "name": "Nicolas Aube-Kubel",
     "team": "minnesota-wild",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -9887,6 +9775,38 @@
       "2029-30": "$0"
     }
   },
+  "8483460": {
+    "name": "David Jiricek",
+    "team": "minnesota-wild",
+    "cap_hit": "$918,333",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$918,333",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8483766": {
+    "name": "David Spacek",
+    "team": "minnesota-wild",
+    "cap_hit": "$862,500",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$862,500",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8485074": {
     "name": "Stevie Leskovar",
     "team": "minnesota-wild",
@@ -9899,22 +9819,6 @@
       "2025-26": "$860,000",
       "2026-27": "$860,000",
       "2027-28": "$860,000",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8479416": {
-    "name": "Ben Gleason",
-    "team": "minnesota-wild",
-    "cap_hit": "$800,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$800,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -10223,22 +10127,6 @@
       "2029-30": "$0"
     }
   },
-  "8478104": {
-    "name": "Sammy Blais",
-    "team": "montreal-canadiens",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8480865": {
     "name": "Noah Dobson",
     "team": "montreal-canadiens",
@@ -10521,6 +10409,22 @@
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$835,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8478104": {
+    "name": "Sammy Blais",
+    "team": "montreal-canadiens",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -10847,38 +10751,6 @@
       "2029-30": "$0"
     }
   },
-  "8484241": {
-    "name": "Matthew Murray",
-    "team": "nashville-predators",
-    "cap_hit": "$775,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$775,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482768": {
-    "name": "Fyodor Svechkov",
-    "team": "nashville-predators",
-    "cap_hit": "$925,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$925,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8477446": {
     "name": "Michael McCarron",
     "team": "nashville-predators",
@@ -11007,22 +10879,6 @@
       "2029-30": "$0"
     }
   },
-  "8477971": {
-    "name": "Andreas Englund",
-    "team": "nashville-predators",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8482482": {
     "name": "Adam Wilsby",
     "team": "nashville-predators",
@@ -11087,6 +10943,22 @@
       "2029-30": "$0"
     }
   },
+  "8483575": {
+    "name": "Matthew Murray",
+    "team": "nashville-predators",
+    "cap_hit": "$775,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$775,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8485405": {
     "name": "Brady Martin",
     "team": "nashville-predators",
@@ -11099,6 +10971,22 @@
       "2025-26": "$975,000",
       "2026-27": "$975,000",
       "2027-28": "$975,000",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8482768": {
+    "name": "Fyodor Svechkov",
+    "team": "nashville-predators",
+    "cap_hit": "$925,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$925,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -11375,6 +11263,22 @@
       "2029-30": "$0"
     }
   },
+  "8477971": {
+    "name": "Andreas Englund",
+    "team": "nashville-predators",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8480992": {
     "name": "Magnus Chrona",
     "team": "nashville-predators",
@@ -11407,20 +11311,20 @@
       "2029-30": "$8,800,000"
     }
   },
-  "8481559": {
-    "name": "Jack Hughes",
+  "8482684": {
+    "name": "Luke Hughes",
     "team": "new-jersey-devils",
-    "cap_hit": "$8,000,000",
+    "cap_hit": "$9,000,000",
     "expiry_year": 2030,
     "years_remaining": 5,
     "status": "UFA",
-    "clauses": "M-NTC",
+    "clauses": "",
     "salary_schedule": {
-      "2025-26": "$8,000,000",
-      "2026-27": "$8,000,000",
-      "2027-28": "$8,000,000",
-      "2028-29": "$8,000,000",
-      "2029-30": "$8,000,000"
+      "2025-26": "$9,000,000",
+      "2026-27": "$9,000,000",
+      "2027-28": "$9,000,000",
+      "2028-29": "$9,000,000",
+      "2029-30": "$9,000,000"
     }
   },
   "8479407": {
@@ -11519,6 +11423,38 @@
       "2029-30": "$0"
     }
   },
+  "8484958": {
+    "name": "Maxim Tsyplakov",
+    "team": "new-jersey-devils",
+    "cap_hit": "$2,250,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$2,250,000",
+      "2026-27": "$2,250,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8475760": {
+    "name": "Nick Bjugstad",
+    "team": "new-jersey-devils",
+    "cap_hit": "$1,750,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$1,750,000",
+      "2026-27": "$1,750,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8474149": {
     "name": "Evgenii Dadonov",
     "team": "new-jersey-devils",
@@ -11561,22 +11497,6 @@
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$925,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8477996": {
-    "name": "Juho Lammikko",
-    "team": "new-jersey-devils",
-    "cap_hit": "$800,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$800,000",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -11645,22 +11565,6 @@
       "2027-28": "$9,000,000",
       "2028-29": "$0",
       "2029-30": "$0"
-    }
-  },
-  "8482684": {
-    "name": "Luke Hughes",
-    "team": "new-jersey-devils",
-    "cap_hit": "$9,000,000",
-    "expiry_year": 2030,
-    "years_remaining": 5,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$9,000,000",
-      "2026-27": "$9,000,000",
-      "2027-28": "$9,000,000",
-      "2028-29": "$9,000,000",
-      "2029-30": "$9,000,000"
     }
   },
   "8477488": {
@@ -11745,6 +11649,22 @@
   },
   "8478841": {
     "name": "Colton White",
+    "team": "new-jersey-devils",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8479395": {
+    "name": "Dennis Cholowski",
     "team": "new-jersey-devils",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -11935,22 +11855,6 @@
       "2029-30": "$0"
     }
   },
-  "8482133": {
-    "name": "Thomas Bordeleau",
-    "team": "new-jersey-devils",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8482635": {
     "name": "Mike Hardman",
     "team": "new-jersey-devils",
@@ -12063,22 +11967,6 @@
       "2029-30": "$0"
     }
   },
-  "8479395": {
-    "name": "Dennis Cholowski",
-    "team": "new-jersey-devils",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8480884": {
     "name": "Calen Addison",
     "team": "new-jersey-devils",
@@ -12170,6 +12058,22 @@
     "salary_schedule": {
       "2025-26": "$7,000,000",
       "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8476292": {
+    "name": "Ondrej Palat",
+    "team": "new-york-islanders",
+    "cap_hit": "$6,000,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "UFA",
+    "clauses": "M-NTC",
+    "salary_schedule": {
+      "2025-26": "$6,000,000",
+      "2026-27": "$6,000,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -12895,22 +12799,6 @@
       "2029-30": "$0"
     }
   },
-  "8478550": {
-    "name": "Artemi Panarin",
-    "team": "new-york-rangers",
-    "cap_hit": "$11,642,857",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$11,642,857",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8476459": {
     "name": "Mika Zibanejad",
     "team": "new-york-rangers",
@@ -13087,6 +12975,22 @@
       "2029-30": "$0"
     }
   },
+  "8482132": {
+    "name": "Brett Berard",
+    "team": "new-york-rangers",
+    "cap_hit": "$867,500",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$867,500",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8482747": {
     "name": "Brennan Othmann",
     "team": "new-york-rangers",
@@ -13126,6 +13030,22 @@
     "expiry_year": 2026,
     "years_remaining": 1,
     "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8482153": {
+    "name": "Brendan Brisson",
+    "team": "new-york-rangers",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
@@ -13231,6 +13151,22 @@
       "2029-30": "$0"
     }
   },
+  "8482861": {
+    "name": "Vincent Iorio",
+    "team": "new-york-rangers",
+    "cap_hit": "$814,167",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$814,167",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8481525": {
     "name": "Matthew Robertson",
     "team": "new-york-rangers",
@@ -13242,22 +13178,6 @@
     "salary_schedule": {
       "2025-26": "$775,000",
       "2026-27": "$775,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482067": {
-    "name": "Connor Mackey",
-    "team": "new-york-rangers",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -13295,17 +13215,17 @@
       "2029-30": "$0"
     }
   },
-  "8477484": {
-    "name": "Spencer Martin",
+  "8482504": {
+    "name": "Hugo Ollas",
     "team": "new-york-rangers",
-    "cap_hit": "$775,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "UFA",
+    "cap_hit": "$855,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$775,000",
+      "2025-26": "$855,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -13323,6 +13243,22 @@
       "2025-26": "$1,250,000",
       "2026-27": "$1,250,000",
       "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8484802": {
+    "name": "Liam Greentree",
+    "team": "new-york-rangers",
+    "cap_hit": "$942,500",
+    "expiry_year": 2028,
+    "years_remaining": 3,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$942,500",
+      "2026-27": "$942,500",
+      "2027-28": "$942,500",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -13355,22 +13291,6 @@
       "2025-26": "$886,667",
       "2026-27": "$886,667",
       "2027-28": "$886,667",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482132": {
-    "name": "Brett Berard",
-    "team": "new-york-rangers",
-    "cap_hit": "$867,500",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$867,500",
-      "2026-27": "$0",
-      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -13503,22 +13423,6 @@
       "2029-30": "$0"
     }
   },
-  "8482153": {
-    "name": "Brendan Brisson",
-    "team": "new-york-rangers",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8483750": {
     "name": "Jackson Dorrington",
     "team": "new-york-rangers",
@@ -13567,6 +13471,22 @@
       "2029-30": "$0"
     }
   },
+  "8482067": {
+    "name": "Connor Mackey",
+    "team": "new-york-rangers",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8483407": {
     "name": "Brandon Scanlin",
     "team": "new-york-rangers",
@@ -13599,17 +13519,17 @@
       "2029-30": "$0"
     }
   },
-  "8482504": {
-    "name": "Hugo Ollas",
+  "8477484": {
+    "name": "Spencer Martin",
     "team": "new-york-rangers",
-    "cap_hit": "$855,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
+    "cap_hit": "$775,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "UFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$855,000",
-      "2026-27": "$0",
+      "2025-26": "$775,000",
+      "2026-27": "$775,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -13839,22 +13759,6 @@
       "2029-30": "$0"
     }
   },
-  "8483676": {
-    "name": "Stephen Halliday",
-    "team": "ottawa-senators",
-    "cap_hit": "$950,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$950,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8476393": {
     "name": "Nick Cousins",
     "team": "ottawa-senators",
@@ -13865,22 +13769,6 @@
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$825,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482673": {
-    "name": "Xavier Bourgault",
-    "team": "ottawa-senators",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -14031,6 +13919,22 @@
       "2029-30": "$0"
     }
   },
+  "8483676": {
+    "name": "Stephen Halliday",
+    "team": "ottawa-senators",
+    "cap_hit": "$950,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$950,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8485006": {
     "name": "Lucas Ellinas",
     "team": "ottawa-senators",
@@ -14129,6 +14033,22 @@
   },
   "8481560": {
     "name": "Arthur Kaliyev",
+    "team": "ottawa-senators",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8482673": {
+    "name": "Xavier Bourgault",
     "team": "ottawa-senators",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -14607,22 +14527,6 @@
       "2029-30": "$0"
     }
   },
-  "8478967": {
-    "name": "Lane Pederson",
-    "team": "philadelphia-flyers",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8477948": {
     "name": "Travis Sanheim",
     "team": "philadelphia-flyers",
@@ -14761,22 +14665,6 @@
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$1,450,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482783": {
-    "name": "Alexei Kolosov",
-    "team": "philadelphia-flyers",
-    "cap_hit": "$925,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$925,000",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -14945,6 +14833,22 @@
   },
   "8478409": {
     "name": "Anthony Richard",
+    "team": "philadelphia-flyers",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8478967": {
+    "name": "Lane Pederson",
     "team": "philadelphia-flyers",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -15871,22 +15775,6 @@
       "2029-30": "$0"
     }
   },
-  "8479548": {
-    "name": "Filip Larsson",
-    "team": "pittsburgh-penguins",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8475726": {
     "name": "Tyler Toffoli",
     "team": "san-jose-sharks",
@@ -15930,22 +15818,6 @@
     "salary_schedule": {
       "2025-26": "$3,641,667",
       "2026-27": "$3,641,667",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8475784": {
-    "name": "Jeff Skinner",
-    "team": "san-jose-sharks",
-    "cap_hit": "$3,000,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "M-NTC",
-    "salary_schedule": {
-      "2025-26": "$3,000,000",
-      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -16095,6 +15967,22 @@
       "2029-30": "$0"
     }
   },
+  "8483428": {
+    "name": "Filip Bystedt",
+    "team": "san-jose-sharks",
+    "cap_hit": "$918,333",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$918,333",
+      "2026-27": "$918,333",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8482667": {
     "name": "William Eklund",
     "team": "san-jose-sharks",
@@ -16154,6 +16042,22 @@
     "salary_schedule": {
       "2025-26": "$6,500,000",
       "2026-27": "$6,500,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8475181": {
+    "name": "Nick Leddy",
+    "team": "san-jose-sharks",
+    "cap_hit": "$4,000,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "M-NTC",
+    "salary_schedule": {
+      "2025-26": "$4,000,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -16255,22 +16159,6 @@
       "2029-30": "$0"
     }
   },
-  "8482861": {
-    "name": "Vincent Iorio",
-    "team": "san-jose-sharks",
-    "cap_hit": "$814,167",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$814,167",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8471679": {
     "name": "Carey Price",
     "team": "san-jose-sharks",
@@ -16319,22 +16207,6 @@
       "2029-30": "$0"
     }
   },
-  "8475181": {
-    "name": "Nick Leddy",
-    "team": "san-jose-sharks",
-    "cap_hit": "$4,000,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "M-NTC",
-    "salary_schedule": {
-      "2025-26": "$4,000,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8476316": {
     "name": "Laurent Brossoit",
     "team": "san-jose-sharks",
@@ -16363,22 +16235,6 @@
       "2025-26": "$934,167",
       "2026-27": "$934,167",
       "2027-28": "$934,167",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8483428": {
-    "name": "Filip Bystedt",
-    "team": "san-jose-sharks",
-    "cap_hit": "$918,333",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$918,333",
-      "2026-27": "$918,333",
-      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -17519,22 +17375,6 @@
       "2029-30": "$0"
     }
   },
-  "8475760": {
-    "name": "Nick Bjugstad",
-    "team": "st-louis-blues",
-    "cap_hit": "$1,750,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$1,750,000",
-      "2026-27": "$1,750,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8480281": {
     "name": "Alexei Toropchenko",
     "team": "st-louis-blues",
@@ -17627,6 +17467,22 @@
       "2025-26": "$775,000",
       "2026-27": "$0",
       "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8482090": {
+    "name": "Jack Finley",
+    "team": "st-louis-blues",
+    "cap_hit": "$775,000",
+    "expiry_year": 2028,
+    "years_remaining": 3,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$775,000",
+      "2027-28": "$775,000",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -17786,6 +17642,22 @@
     "salary_schedule": {
       "2025-26": "$3,400,000",
       "2026-27": "$3,400,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8484312": {
+    "name": "Georgii Romanov",
+    "team": "st-louis-blues",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -17967,6 +17839,22 @@
       "2029-30": "$0"
     }
   },
+  "8482133": {
+    "name": "Thomas Bordeleau",
+    "team": "st-louis-blues",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8484790": {
     "name": "Adam Jiříček",
     "team": "st-louis-blues",
@@ -18011,22 +17899,6 @@
       "2025-26": "$918,333",
       "2026-27": "$918,333",
       "2027-28": "$918,333",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482499": {
-    "name": "Samuel Johannesson",
-    "team": "st-louis-blues",
-    "cap_hit": "$870,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$870,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -18134,22 +18006,6 @@
     "expiry_year": 2026,
     "years_remaining": 1,
     "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8484312": {
-    "name": "Georgii Romanov",
-    "team": "st-louis-blues",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
@@ -18351,8 +18207,8 @@
       "2029-30": "$0"
     }
   },
-  "8480876": {
-    "name": "Curtis Douglas",
+  "8477149": {
+    "name": "Scott Sabourin",
     "team": "tampa-bay-lightning",
     "cap_hit": "$775,000",
     "expiry_year": 2026,
@@ -18367,18 +18223,18 @@
       "2029-30": "$0"
     }
   },
-  "8482090": {
-    "name": "Jack Finley",
+  "8480876": {
+    "name": "Curtis Douglas",
     "team": "tampa-bay-lightning",
     "cap_hit": "$775,000",
-    "expiry_year": 2028,
-    "years_remaining": 3,
-    "status": "RFA",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
-      "2026-27": "$775,000",
-      "2027-28": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -18457,22 +18313,6 @@
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$975,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8482168": {
-    "name": "Maxim Groshev",
-    "team": "tampa-bay-lightning",
-    "cap_hit": "$867,500",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$867,500",
       "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
@@ -18751,22 +18591,6 @@
       "2029-30": "$0"
     }
   },
-  "8477149": {
-    "name": "Scott Sabourin",
-    "team": "tampa-bay-lightning",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8481592": {
     "name": "Jakob Pelletier",
     "team": "tampa-bay-lightning",
@@ -18826,6 +18650,22 @@
     "salary_schedule": {
       "2025-26": "$870,000",
       "2026-27": "$870,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8482168": {
+    "name": "Maxim Groshev",
+    "team": "tampa-bay-lightning",
+    "cap_hit": "$867,500",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$867,500",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -19119,22 +18959,6 @@
       "2029-30": "$0"
     }
   },
-  "8484901": {
-    "name": "Jacob Quillan",
-    "team": "toronto-maple-leafs",
-    "cap_hit": "$875,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$875,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8484158": {
     "name": "Easton Cowan",
     "team": "toronto-maple-leafs",
@@ -19247,22 +19071,6 @@
       "2029-30": "$0"
     }
   },
-  "8481567": {
-    "name": "Henry Thrun",
-    "team": "toronto-maple-leafs",
-    "cap_hit": "$1,000,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$1,000,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8479026": {
     "name": "Philippe Myers",
     "team": "toronto-maple-leafs",
@@ -19274,22 +19082,6 @@
     "salary_schedule": {
       "2025-26": "$850,000",
       "2026-27": "$850,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8477541": {
-    "name": "Dakota Mermis",
-    "team": "toronto-maple-leafs",
-    "cap_hit": "$812,500",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$812,500",
-      "2026-27": "$812,500",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -19355,6 +19147,22 @@
       "2025-26": "$918,333",
       "2026-27": "$918,333",
       "2027-28": "$918,333",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8484901": {
+    "name": "Jacob Quillan",
+    "team": "toronto-maple-leafs",
+    "cap_hit": "$875,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$875,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -19487,6 +19295,22 @@
       "2029-30": "$0"
     }
   },
+  "8481567": {
+    "name": "Henry Thrun",
+    "team": "toronto-maple-leafs",
+    "cap_hit": "$1,000,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$1,000,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8484805": {
     "name": "Ben Danford",
     "team": "toronto-maple-leafs",
@@ -19546,6 +19370,22 @@
     "salary_schedule": {
       "2025-26": "$825,000",
       "2026-27": "$825,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8477541": {
+    "name": "Dakota Mermis",
+    "team": "toronto-maple-leafs",
+    "cap_hit": "$812,500",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$812,500",
+      "2026-27": "$812,500",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -19839,22 +19679,6 @@
       "2029-30": "$10,000,000"
     }
   },
-  "8484388": {
-    "name": "Daniil But",
-    "team": "utah-mammoth",
-    "cap_hit": "$950,000",
-    "expiry_year": 2028,
-    "years_remaining": 3,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$950,000",
-      "2026-27": "$950,000",
-      "2027-28": "$950,000",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8479619": {
     "name": "Michael Carcone",
     "team": "utah-mammoth",
@@ -19882,6 +19706,22 @@
     "salary_schedule": {
       "2025-26": "$775,000",
       "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8481827": {
+    "name": "Ben McCartney",
+    "team": "utah-mammoth",
+    "cap_hit": "$775,000",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$775,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -19983,22 +19823,6 @@
       "2029-30": "$0"
     }
   },
-  "8484386": {
-    "name": "Dmitri Simashev",
-    "team": "utah-mammoth",
-    "cap_hit": "$950,000",
-    "expiry_year": 2028,
-    "years_remaining": 3,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$950,000",
-      "2026-27": "$950,000",
-      "2027-28": "$950,000",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8480084": {
     "name": "Nick DeSimone",
     "team": "utah-mammoth",
@@ -20043,6 +19867,22 @@
       "2025-26": "$1,500,000",
       "2026-27": "$0",
       "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8484388": {
+    "name": "Daniil But",
+    "team": "utah-mammoth",
+    "cap_hit": "$950,000",
+    "expiry_year": 2028,
+    "years_remaining": 3,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$950,000",
+      "2026-27": "$950,000",
+      "2027-28": "$950,000",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -20202,22 +20042,6 @@
     "salary_schedule": {
       "2025-26": "$775,000",
       "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8481827": {
-    "name": "Ben McCartney",
-    "team": "utah-mammoth",
-    "cap_hit": "$775,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$775,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -20543,22 +20367,6 @@
       "2029-30": "$0"
     }
   },
-  "8483476": {
-    "name": "Jonathan Lekkerimaki",
-    "team": "vancouver-canucks",
-    "cap_hit": "$918,333",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$918,333",
-      "2026-27": "$918,333",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8483499": {
     "name": "Liam Öhgren",
     "team": "vancouver-canucks",
@@ -20719,22 +20527,6 @@
       "2029-30": "$0"
     }
   },
-  "8483768": {
-    "name": "Victor Mancini",
-    "team": "vancouver-canucks",
-    "cap_hit": "$870,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$870,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8480058": {
     "name": "Pierre-Olivier Joseph",
     "team": "vancouver-canucks",
@@ -20783,17 +20575,33 @@
       "2029-30": "$4,500,000"
     }
   },
-  "8484268": {
-    "name": "Nikita Tolopilo",
+  "8482875": {
+    "name": "Aku Koskenvuo",
     "team": "vancouver-canucks",
-    "cap_hit": "$775,000",
+    "cap_hit": "$850,000",
     "expiry_year": 2027,
     "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$850,000",
+      "2026-27": "$850,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8480238": {
+    "name": "Jiri Patera",
+    "team": "vancouver-canucks",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
     "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
-      "2026-27": "$775,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -20843,6 +20651,22 @@
       "2025-26": "$923,333",
       "2026-27": "$923,333",
       "2027-28": "$923,333",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8483476": {
+    "name": "Jonathan Lekkerimaki",
+    "team": "vancouver-canucks",
+    "cap_hit": "$918,333",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$918,333",
+      "2026-27": "$918,333",
+      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
     }
@@ -20991,6 +20815,22 @@
       "2029-30": "$0"
     }
   },
+  "8483768": {
+    "name": "Victor Mancini",
+    "team": "vancouver-canucks",
+    "cap_hit": "$870,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$870,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8483467": {
     "name": "Kirill Kudryavtsev",
     "team": "vancouver-canucks",
@@ -21087,33 +20927,17 @@
       "2029-30": "$0"
     }
   },
-  "8482875": {
-    "name": "Aku Koskenvuo",
-    "team": "vancouver-canucks",
-    "cap_hit": "$850,000",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$850,000",
-      "2026-27": "$850,000",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8480238": {
-    "name": "Jiri Patera",
+  "8484268": {
+    "name": "Nikita Tolopilo",
     "team": "vancouver-canucks",
     "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
+    "expiry_year": 2027,
+    "years_remaining": 2,
     "status": "UFA",
     "clauses": "",
     "salary_schedule": {
       "2025-26": "$775,000",
-      "2026-27": "$0",
+      "2026-27": "$775,000",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -21354,22 +21178,6 @@
     "salary_schedule": {
       "2025-26": "$812,500",
       "2026-27": "$812,500",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8479550": {
-    "name": "Tanner Laczynski",
-    "team": "vegas-golden-knights",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -21722,6 +21530,22 @@
     "salary_schedule": {
       "2025-26": "$803,334",
       "2026-27": "$803,334",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
+  "8479550": {
+    "name": "Tanner Laczynski",
+    "team": "vegas-golden-knights",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -22271,6 +22095,22 @@
       "2029-30": "$0"
     }
   },
+  "8482188": {
+    "name": "Garin Bjorklund",
+    "team": "washington-capitals",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8485393": {
     "name": "Milton Gästrin",
     "team": "washington-capitals",
@@ -22575,22 +22415,6 @@
       "2029-30": "$0"
     }
   },
-  "8482188": {
-    "name": "Garin Bjorklund",
-    "team": "washington-capitals",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8483532": {
     "name": "Clay Stevenson",
     "team": "washington-capitals",
@@ -22815,6 +22639,22 @@
       "2029-30": "$0"
     }
   },
+  "8482652": {
+    "name": "Walker Duehr",
+    "team": "winnipeg-jets",
+    "cap_hit": "$775,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$775,000",
+      "2026-27": "$0",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
+    }
+  },
   "8480145": {
     "name": "Neal Pionk",
     "team": "winnipeg-jets",
@@ -22959,17 +22799,17 @@
       "2029-30": "$0"
     }
   },
-  "8482192": {
-    "name": "Isaak Phillips",
+  "8481572": {
+    "name": "Ville Heinola",
     "team": "winnipeg-jets",
-    "cap_hit": "$812,500",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
+    "cap_hit": "$800,000",
+    "expiry_year": 2026,
+    "years_remaining": 1,
+    "status": "UFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$812,500",
-      "2026-27": "$812,500",
+      "2025-26": "$800,000",
+      "2026-27": "$0",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -22989,6 +22829,22 @@
       "2027-28": "$8,500,000",
       "2028-29": "$8,500,000",
       "2029-30": "$8,500,000"
+    }
+  },
+  "8483711": {
+    "name": "Domenic DiVincentiis",
+    "team": "winnipeg-jets",
+    "cap_hit": "$830,556",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2025-26": "$830,556",
+      "2026-27": "$830,556",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0"
     }
   },
   "8477480": {
@@ -23231,22 +23087,6 @@
       "2029-30": "$0"
     }
   },
-  "8482652": {
-    "name": "Walker Duehr",
-    "team": "winnipeg-jets",
-    "cap_hit": "$775,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$775,000",
-      "2026-27": "$0",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
   "8484854": {
     "name": "Alfons Freij",
     "team": "winnipeg-jets",
@@ -23263,17 +23103,17 @@
       "2029-30": "$0"
     }
   },
-  "8481572": {
-    "name": "Ville Heinola",
+  "8482192": {
+    "name": "Isaak Phillips",
     "team": "winnipeg-jets",
-    "cap_hit": "$800,000",
-    "expiry_year": 2026,
-    "years_remaining": 1,
-    "status": "UFA",
+    "cap_hit": "$812,500",
+    "expiry_year": 2027,
+    "years_remaining": 2,
+    "status": "RFA",
     "clauses": "",
     "salary_schedule": {
-      "2025-26": "$800,000",
-      "2026-27": "$0",
+      "2025-26": "$812,500",
+      "2026-27": "$812,500",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
@@ -23322,22 +23162,6 @@
     "salary_schedule": {
       "2025-26": "$841,667",
       "2026-27": "$841,667",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0"
-    }
-  },
-  "8483711": {
-    "name": "Domenic DiVincentiis",
-    "team": "winnipeg-jets",
-    "cap_hit": "$830,556",
-    "expiry_year": 2027,
-    "years_remaining": 2,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2025-26": "$830,556",
-      "2026-27": "$830,556",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0"
