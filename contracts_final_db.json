@@ -367,6 +367,22 @@
       "2030-31": "$0"
     }
   },
+  "8484262": {
+    "name": "Travis Mitchell",
+    "team": "anaheim-ducks",
+    "cap_hit": "$850,000",
+    "expiry_year": 2027,
+    "years_remaining": 1,
+    "status": "UFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2026-27": "$850,000",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0",
+      "2030-31": "$0"
+    }
+  },
   "8480843": {
     "name": "Lukas Dostal",
     "team": "anaheim-ducks",
@@ -650,22 +666,6 @@
     "salary_schedule": {
       "2026-27": "$875,000",
       "2027-28": "$875,000",
-      "2028-29": "$0",
-      "2029-30": "$0",
-      "2030-31": "$0"
-    }
-  },
-  "8484262": {
-    "name": "Travis Mitchell",
-    "team": "anaheim-ducks",
-    "cap_hit": "$850,000",
-    "expiry_year": 2027,
-    "years_remaining": 1,
-    "status": "UFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2026-27": "$850,000",
-      "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0",
       "2030-31": "$0"
