@@ -175,6 +175,22 @@
       "2030-31": "$0"
     }
   },
+  "8484201": {
+    "name": "Nico Myatovic",
+    "team": "anaheim-ducks",
+    "cap_hit": "$896,667",
+    "expiry_year": 2027,
+    "years_remaining": 1,
+    "status": "RFA",
+    "clauses": "",
+    "salary_schedule": {
+      "2026-27": "$896,667",
+      "2027-28": "$0",
+      "2028-29": "$0",
+      "2029-30": "$0",
+      "2030-31": "$0"
+    }
+  },
   "8481538": {
     "name": "Judd Caulfield",
     "team": "anaheim-ducks",
@@ -553,22 +569,6 @@
     "clauses": "",
     "salary_schedule": {
       "2026-27": "$933,334",
-      "2027-28": "$0",
-      "2028-29": "$0",
-      "2029-30": "$0",
-      "2030-31": "$0"
-    }
-  },
-  "8484201": {
-    "name": "Nico Myatovic",
-    "team": "anaheim-ducks",
-    "cap_hit": "$896,667",
-    "expiry_year": 2027,
-    "years_remaining": 1,
-    "status": "RFA",
-    "clauses": "",
-    "salary_schedule": {
-      "2026-27": "$896,667",
       "2027-28": "$0",
       "2028-29": "$0",
       "2029-30": "$0",
